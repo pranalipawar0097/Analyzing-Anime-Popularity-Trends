@@ -1,14 +1,14 @@
 # Analyzing-Anime-Popularity-Trends
-Analyzed anime popularity trends using Python by exploring ratings, popularity scores, and genre-wise performance. Performed data cleaning, exploratory data analysis, and visualizations using Pandas, NumPy, and Matplotlib to uncover audience preferences and key patterns.
+Analyzed anime popularity trends using Python by exploring ratings, popularity scores, a genre-wise performance. Performed data cleaning, exploratory data analysis, and visualizations using Pandas, NumPy, and Matplotlib to uncover audience preferences and key patterns.
 Analyzing Anime Popularity Trends with Python
 
 Project Overview
-This project analyzes anime popularity trends using python to understand what factors influence audience preferences. By examining ratings, popularity scores, and genres, the project uncovers patterns behind highly rated and popular anime.
+This projec analyzes anime popularity trends using python to understand what factors influence audience preferences. By examining ratings, popularity scores, and genres, the project uncovers patterns behind highly rated and popular anime.
 
 Objectives
 Identify top-rated and most popular anime
 Analyze genre-wise popularity trends
-Explore relationships between ratings and popularity metrics
+Explore relationships vh ratings and popularity metrics
 Present insights using clear visualizations
 
 Tools & Technologies
