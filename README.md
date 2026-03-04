@@ -40,4 +40,4 @@ Higher ratings often correlate with better popularity, but exceptions exist
 Audience preferences vary significantly acroos genres
 
 ##Conclusion
-This project demonstrates practical skills in data analysis, visualization, and insight generation using Python, making it suitable for aspiring data analysts and Python beginners.
+This project demonstrates practical skills in data analysis, visualization, and insight generation using Python, making it suitable for aspiring data analysts and Python begineers.
